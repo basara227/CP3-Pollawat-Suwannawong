@@ -39,9 +39,8 @@ if user == "admin" and password == "1234" :
         print("total VAT included =", total, "THB")
 
     else:
-        item = "Please choose the number between 1-3"
-        number = 0
-        total = 0
+        print("Please choose the number between 1-3")
+
     print("---------------------------")
 
 
